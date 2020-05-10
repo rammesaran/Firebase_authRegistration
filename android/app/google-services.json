@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090888661553",
+    "firebase_url": "https://salloneshop.firebaseio.com",
+    "project_id": "salloneshop",
+    "storage_bucket": "salloneshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090888661553:android:37a4402303824e884cb310",
+        "android_client_info": {
+          "package_name": "com.example.sallonfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090888661553-1v41rl4p8o30bkep94e5vro9lge44d35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sallonfirebase",
+            "certificate_hash": "5e0bf94a3d0c30be8e8f6210116d8875a24d6c58"
+          }
+        },
+        {
+          "client_id": "1090888661553-64pf99s87ukbj6vsjd4pbcsnu3n21jbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx9Kll3cHuF2SWzTWqxU4VDT5FfljAvAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090888661553-64pf99s87ukbj6vsjd4pbcsnu3n21jbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
